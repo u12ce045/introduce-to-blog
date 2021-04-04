@@ -1,0 +1,10 @@
+# Site settings
+title : Great New Blog Title
+author :
+  name: Avinash Mahech
+  email : avi007krishna@gmail.com
+
+description : Great sites about learning computer vision and language processing
+  
+# Build settings
+remote_theme : jekyll/minima
